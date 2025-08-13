@@ -1,0 +1,13 @@
+body {
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+
+.list-group-item {
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+.alert {
+    margin-top: 20px;
+}
